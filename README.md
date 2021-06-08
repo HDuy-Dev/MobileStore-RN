@@ -1,2 +1,2 @@
 # MobileStore-RN
-![Demo](https://github.com/HDuy-Dev/MobileStore-RN/blob/main/demo/MobileStore.mp4)
+![Demo](https://drive.google.com/file/d/1L27LYQtZtdK9c5EvUo5ofJBe0RIGYukA/view?usp=sharing)
