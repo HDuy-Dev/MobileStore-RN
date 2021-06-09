@@ -1,2 +1,3 @@
 # MobileStore-RN
-[![Demo](https://asciinema.org/a/113463.png)](https://youtu.be/eCYuyAk5aik)
+![Home](https://github.com/HDuy-Dev/MobileStore-RN/blob/main/demo/Home.jpg)
+![Details](https://github.com/HDuy-Dev/MobileStore-RN/blob/main/demo/Details.jpg)
